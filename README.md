@@ -1,9 +1,5 @@
 # 50 Shades of Grey<sub>(for Geeks)</sub>
 
-<div class="outer">
-
-<div class="inner">
-
 1.  <span>rgb(39,39,39) => #272727</span>
 2.  <span>rgb(40,40,40) => #282828</span>
 3.  <span>rgb(41,41,41) => #292929</span>
@@ -85,8 +81,5 @@
 79.  <span>rgb(175,175,175) => #afafaf</span>
 80.  <span>rgb(176,176,176) => #b0b0b0</span>
 
-</div>
-
-</div>
 
 *Note: 80 shades shown, because every geek knows that hex(80) == dec(50)!
